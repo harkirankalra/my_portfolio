@@ -64,9 +64,9 @@ const HeroSection = () => {
           className="flex justify-center md:justify-start gap-6 text-2xl mt-6"
           style={{ color: "hsl(var(--primary))" }}
         >
-          <a href="#"><FaGithub /></a>
-          <a href="#"><FaLinkedinIn /></a>
-          <a href="#"><FaTwitter /></a>
+          <a href="https://github.com/harkirankalra"><FaGithub /></a>
+          <a href="https://www.linkedin.com/in/harkiran-kaur-3622a226b/"><FaLinkedinIn /></a>
+        
         </div>
 
         {/* Download Button */}
